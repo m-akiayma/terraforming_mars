@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/terraforming_mars/static/css/main.dfca195d.chunk.css",
+    "main.js": "/terraforming_mars/static/js/main.ce316416.chunk.js",
+    "main.js.map": "/terraforming_mars/static/js/main.ce316416.chunk.js.map",
+    "runtime-main.js": "/terraforming_mars/static/js/runtime-main.8967dc4a.js",
+    "runtime-main.js.map": "/terraforming_mars/static/js/runtime-main.8967dc4a.js.map",
+    "static/js/2.c0dd0650.chunk.js": "/terraforming_mars/static/js/2.c0dd0650.chunk.js",
+    "static/js/2.c0dd0650.chunk.js.map": "/terraforming_mars/static/js/2.c0dd0650.chunk.js.map",
+    "index.html": "/terraforming_mars/index.html",
+    "precache-manifest.fc5265bc23e9f0486dcfd633482901ca.js": "/terraforming_mars/precache-manifest.fc5265bc23e9f0486dcfd633482901ca.js",
+    "service-worker.js": "/terraforming_mars/service-worker.js",
+    "static/css/main.dfca195d.chunk.css.map": "/terraforming_mars/static/css/main.dfca195d.chunk.css.map",
+    "static/media/logo.svg": "/terraforming_mars/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8967dc4a.js",
+    "static/js/2.c0dd0650.chunk.js",
+    "static/css/main.dfca195d.chunk.css",
+    "static/js/main.ce316416.chunk.js"
+  ]
+}
